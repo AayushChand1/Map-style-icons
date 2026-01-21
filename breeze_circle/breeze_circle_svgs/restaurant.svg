@@ -1,2 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 19" height="19" width="19"><title>restaurant_11.svg</title><rect fill="none" x="0" y="0" width="19" height="19"></rect><rect x="1" y="1" rx="8.5" ry="8.5" width="17" height="17" stroke="#ffffff" style="stroke-linejoin:round;stroke-miterlimit:4;" fill="#ffffff" stroke-width="2"></rect><rect x="1" y="1" width="17" height="17" rx="8.5" ry="8.5" fill="#d97200"></rect><path fill="#fff" transform="translate(4 4)" d="M2.25,0l-0.5,3.5C1.6793,3.995,2.9908,4.9001,3,5.5V11h1V5.5c0-0.6,1.3207-1.505,1.25-2L4.75,0h-0.5
-	L4.5,2.75l-0.75,0.5V0h-0.5v3.25L2.5,2.75L2.75,0H2.25z M9,0C7.5,0,7.0064,1.7242,7,3v3h1v5h1V0z"></path></svg>
+<svg width="19" height="19" viewBox="0 0 19 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_13_362)">
+<path d="M18 9.5C18 4.80558 14.1944 1 9.5 1C4.80558 1 1 4.80558 1 9.5C1 14.1944 4.80558 18 9.5 18C14.1944 18 18 14.1944 18 9.5Z" fill="white" stroke="white" stroke-width="2" stroke-linejoin="round"/>
+<path d="M18 9.5C18 4.80558 14.1944 1 9.5 1C4.80558 1 1 4.80558 1 9.5C1 14.1944 4.80558 18 9.5 18C14.1944 18 18 14.1944 18 9.5Z" fill="#D97200"/>
+<path d="M6.48524 5L6.00266 7.86364C5.93443 8.26864 7.20022 9.00917 7.2091 9.5V14H8.17425V9.5C8.17425 9.00909 9.44892 8.26864 9.38069 7.86364L8.89811 5H8.41554L8.65683 7.25L7.93296 7.65909V5H7.45039V7.65909L6.72653 7.25L6.96781 5H6.48524ZM13 5C11.5523 5 11.0759 6.41071 11.0697 7.45455V9.90909H12.0349V14H13V5Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_13_362">
+<rect width="19" height="19" fill="white"/>
+</clipPath>
+</defs>
+</svg>
